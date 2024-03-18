@@ -1,0 +1,10 @@
+**/__pycache__
+**/.ipynb_checkpoints
+**/input_data
+**/output_data
+**/whole_body_gene_expression/PROVIDED_CODE
+**/whole_body_gene_expression/input_data_2
+**/*PRJNA13758.*
+*whole_genome_v2_nov-11-2021.csv
+*.h5ad
+*.swp
