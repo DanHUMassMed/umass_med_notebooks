@@ -8,3 +8,5 @@
 *whole_genome_v2_nov-11-2021.csv
 *.h5ad
 *.swp
+*.log
+.env
